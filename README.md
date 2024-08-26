@@ -4,4 +4,4 @@ I especially have an affinity for building things with Vanilla JS with minimal u
 
 Most recently, I have been working on a text parser for adventure games and also exploring NodeJS, ExpressJS and mySQL.
 
-I am looking to join a team as a frontend dev, backend web dev, or even a database programmer. I code for the love of it but I am ready to make a career out of it. I feel it's time to use my skills toward making a meaningful contribution to a company and its consumers. Let's make it happen!
+I am looking to join a team as a frontend dev, backend web dev, or even a database programmer. I code for the love of it but I am ready to make a career out of it. I feel it's time to ulitize my skills in order to make a meaningful contribution to a company and its consumers. Let's make it happen!
