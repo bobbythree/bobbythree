@@ -1,7 +1,7 @@
-### Pursuing a career in computer programming
+### looking to join a company as a backend dev, data analyst, SDET, game dev, or similar role.
 
-I am currently looking to change careers from behavioral health patient care to computer programming. Since making this decision a couple years ago, I have spent every single day studying and building things with various technologies. I started out with JavaScript/HTML/CSS, building some basic web apps, animations, games and music software. I briefly explored Svelte/SvelteKit but really have an affinity for writing Vanilla JavaScript and especially love working with HTML Canvas. I also delved into the backend by utilizing tools such as NodeJS, ExpressJS and mySQL. With these I built some REST APIs and learned other backend concepts such as form validation, webscraping and database management.
+Languages: JavaScript/HTML/CSS, Python, SQL, BASH
 
-At some point along the journey I realized that I much prefer backend. I recently started putting all my effort into learning Python while continuing to work with mySQL as well as familiarlizing myself with Linux. In order to facilitate my studies, I am currently building a text adventure that runs in the terminal(see repo). I'm building a text parser from scratch for the game and testing the game with pytest.
+Current Project: Text adventure that runs in the terminal. Written in Python.
 
-I am eager to join a team either as a backend dev, data analyst, SDET, game dev, or any similar role. I code for the love of it but I feel it's time to put my skills to good use and make a meaningful contribution to a company and its consumers. Let's make it happen!
+
