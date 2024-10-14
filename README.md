@@ -1,4 +1,4 @@
-### looking to join a company as a backend dev, data analyst, SDET, game dev, or similar role.
+### looking to join a company as a backend dev, data engineer, SDET, game dev, or similar role.
 
 Languages: JavaScript/HTML/CSS, Python, SQL, BASH
 
