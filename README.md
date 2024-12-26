@@ -1,7 +1,10 @@
-### looking to join a company as a backend dev, Fullstack dev, SDET, Web game dev, or similar role.
+### looking to join a company as a frontend dev, Fullstack dev, Web game dev, or similar role.
 
-Languages: JavaScript/HTML/CSS, Python, SQL
-Other Technologies: mySQL, Flask, FastAPI, PyTest, Svelte/SvelteKit, NodeJS, ExpressJS, Canvas API, BASH
+###Technologies:
+JavaScript: Svelte/SvelteKit, Node.js, Express.js, Canvas API
+Python: Flask, FastAPI, PyTest
+SQL: MySQL
+Other: Linux, Git, Docker, BASH, Insomnia, Gemini
 
 Current Project: Text adventure that runs in the terminal which includes a text-parser built from scratch. Written in Python. 
 
