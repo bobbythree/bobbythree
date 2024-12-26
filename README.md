@@ -1,6 +1,6 @@
 ### looking to join a company as a frontend dev, Fullstack dev, Web game dev, or similar role.
 
-###Technologies:  
+### Technologies:  
 JavaScript: Svelte/SvelteKit, Node.js, Express.js, Canvas API
 Python: Flask, FastAPI, PyTest
 SQL: MySQL
