@@ -3,7 +3,7 @@
 ### Technologies:  
 FRONTEND:  
 - JavaScript  
-- React--
+- React  
 - React Router  
 - Tanstack  
 - Svelte  
