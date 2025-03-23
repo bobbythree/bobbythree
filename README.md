@@ -1,11 +1,28 @@
-### looking to join a company as a Frontend dev, Fullstack dev, Web game dev, or similar role.
+## Looking to join a company as a Frontend dev, Fullstack dev, Web game dev, or similar role.
 
 ### Technologies:  
-JavaScript: React, Svelte/SvelteKit, Node.js, Express.js, Canvas API  
-Python: Flask, FastAPI, PyTest  
-SQL: MySQL, SQLite  
-Other: Linux, Git, Docker, BASH, Insomnia, Gemini  
-
+FRONTEND:  
+- JavaScript  
+- React--
+- React Router  
+- Tanstack  
+- Svelte  
+- TailwindCSS  
+- HTML Canvas/Canvas API  
+  
+BACKEND:  
+- Node.js  
+- Express.js  
+- Python Flask  
+- SQLite  
+- MySQL  
+  
+OTHER:  
+- Git  
+- Linux/Bash  
+- Insomnia  
+- Gemini
+  
 ### Current Projects:  
 Text adventure that runs in the terminal which includes a text-parser built from scratch. Written in Python.  
 Electronic Medical Record (EMR) software built with React  
