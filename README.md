@@ -39,7 +39,7 @@ While I'm serious about my Linux journey, I also enjoy coding for fun and person
 
 ## Get in Touch!  
 
-I'm always open to connecting with fellow Linux enthusiasts, developers, and potential employers. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/bobby) or shoot me an [email](mailto:bobbythr33@gmail.com)!  
+I'm always open to connecting with fellow Linux enthusiasts, developers, and potential employers. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/bobbythree) or shoot me an [email](mailto:bobbythr33@gmail.com)!  
 
 Looking forward to connecting!  
 
