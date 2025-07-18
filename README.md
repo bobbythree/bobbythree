@@ -1,12 +1,6 @@
 # Hi there, I'm Robert Lewis III (bobbythree)! 👋  
 
-I'm a passionate technologist who thrives in the Linux environment, constantly exploring its intricacies. While my professional aspirations lie in Linux administration, I also have a creative side and enjoy bringing musical and artistic ideas to life through JavaScript and Python.  
-
----
-
-## About Me  
-
-🐧 **Linux Enthusiast & Aspiring Admin:** I genuinely love working with Linux – from delving into the command line to optimizing system performance and automating tasks. I'm currently on the path to becoming a certified Linux professional, diligently studying for my **CompTIA Linux+ certification** through a comprehensive Udemy course.  
+I'm a passionate technologist who thrives in the Linux environment, constantly exploring its intricacies. I also have a creative side and enjoy bringing artistic, musical and gaming ideas to life through JavaScript and Python.  
 
 ---
 
