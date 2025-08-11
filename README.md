@@ -1,40 +1,49 @@
-# Hi there, I'm Robert Lewis III (bobbythree)! 👋  
+👋 Hello, I'm Robert Lewis III (bobbythree)!
 
-I'm a passionate technologist who thrives in the Linux environment, constantly exploring its intricacies. I also have a creative side and enjoy bringing artistic, musical and gaming ideas to life through JavaScript and Python.  
+I'm a freelance developer passionate about creating engaging and functional web applications. I love building intuitive user interfaces, robust back-end systems, and bringing unique ideas to life. While my primary focus is on web development, my experience with Linux and system administration allows me to approach problems with a strong foundation in infrastructure.
 
----
+My Toolkit
 
-## My Toolkit  
+Here’s a glimpse into the technologies and tools I use to build powerful applications:
 
-Here's a glimpse into the technologies and tools I'm proficient with or actively learning:  
-* **Operating Systems:**  
-    * **Linux:** Various distros including Pop!_OS, Mint, Fedora, Debian and Rocky Linux.  
-* **Scripting Languages:**  
-    * **Bash Scripting:** Automating repetitive tasks, system administration, and workflow optimization.  
-    * **Python Scripting:** Developing tools, automating processes, and tackling more complex scripting challenges.  
-* **Version Control:**  
-    * **Git:** Proficient in managing codebases, collaborating, and tracking changes.  
-* **Containerization:**  
-    * **Docker:** Gaining foundational knowledge and practical experience in containerizing applications.  
-* **Certifications in Progress:**  
-    * **CompTIA Linux+** (currently studying)  
+Web Development
 
----
+    Languages: JavaScript, TypeScript
 
-## What I'm Working On (Personal Projects)  
+    Front-End: React, HTML, CSS, Tailwind CSS, Canvas API
 
-While I'm serious about my Linux journey, I also enjoy coding for fun and personal growth. You'll find a variety of JavaScript projects in my repositories, including:  
+    Back-End: Node.js, REST APIs
 
-* 🎵 **Music Software:** Exploring audio/visual manipulation utilizing Tone.js and Pixi.js.  
-* 🎮 **Games:** Building a text adventure with Python that runs in your terminal.  
-* 🌐 **Websites:** Developing a React app for managing TTRPG campaigns.  
+    Databases: SQLite, MySQL
 
----
+    Version Control: Git
 
-## Get in Touch!  
+Linux & Infrastructure
 
-I'm always open to connecting with fellow Linux enthusiasts, developers, and potential employers. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/bobbythree) or shoot me an [email](mailto:bobbythr33@gmail.com)!  
+    Operating Systems: RHEL and Debian based distros
 
-Looking forward to connecting!  
+    System Administration: User and group management, Storage and File Sytems, ssh Tools, Server Management  
 
----
+    Scripting: Bash, Python
+
+    Cloud & DevOps: AWS, Terraform, Docker, Podman
+
+What I'm Working On (Personal Projects)
+
+I enjoy pushing the boundaries of my skills through personal projects that combine my technical expertise with my creative interests.
+
+    🎵 Music & Art: Exploring audio/visual manipulation with Tone.js and Pixi.js.
+
+    🎮 Gaming: Developing a React app for managing TTRPG campaigns.
+
+    🌐 Freelance Projects: Building responsive and accessible websites for clients.
+
+Get in Touch!
+
+I'm always open to connecting with fellow developers, potential clients, and anyone interested in collaborating on new ideas.
+
+    LinkedIn: https://www.linkedin.com/in/bobbythree
+
+    Email: bobbythr33@gmail.com
+
+Looking forward to connecting!
