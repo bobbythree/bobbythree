@@ -6,27 +6,27 @@ My Toolkit
 
 Here’s a glimpse into the technologies and tools I use to build powerful applications:
 
-Web Development
+    Web Development
 
-    Languages: JavaScript, TypeScript
+        Languages: JavaScript, TypeScript
 
-    Front-End: React, HTML, CSS, Tailwind CSS, Canvas API
+        Front-End: React, HTML, CSS, Tailwind CSS, Canvas API
 
-    Back-End: Node.js, REST APIs
+        Back-End: Node.js, REST APIs
 
-    Databases: SQLite, MySQL
+        Databases: SQLite, MySQL
 
-    Version Control: Git
+        Version Control: Git
 
-Linux & Infrastructure
+    Linux & Infrastructure
 
-    Operating Systems: RHEL and Debian based distros
+        Operating Systems: RHEL and Debian based distros
 
-    System Administration: User and group management, Storage and File Systems, SSH Tools, Server Management
+        System Administration: User and group management, Storage and File Systems, SSH Tools, Server Management
 
-    Scripting: Bash, Python
+        Scripting: Bash, Python
 
-    Cloud & DevOps: AWS, Terraform, Docker, Podman
+        Cloud & DevOps: AWS, Terraform, Docker, Podman
 
 What I'm Working On (Personal Projects)
 
@@ -46,4 +46,4 @@ I'm always open to connecting with fellow developers, potential clients, and any
 
     Email: bobbythr33@gmail.com
 
-Looking forward to connecting!
+Looking forward to connecting
