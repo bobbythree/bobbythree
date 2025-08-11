@@ -22,7 +22,7 @@ Linux & Infrastructure
 
     Operating Systems: RHEL and Debian based distros
 
-    System Administration: User and group management, Storage and File Sytems, ssh Tools, Server Management  
+    System Administration: User and group management, Storage and File Systems, SSH Tools, Server Management
 
     Scripting: Bash, Python
 
